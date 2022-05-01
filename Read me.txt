@@ -1,0 +1,28 @@
+step1:
+
+create a project folder in local disk(c)
+than unzip package in project folder
+
+step2:
+
+after unzip there is file named ATM_DATABASE1 copy the file and move into your cwd(current working directory)
+
+if you don't where is cwd
+
+write the code in python shell
+********************************
+import pathlib
+pathlib.Path.cwd()
+********************************
+you get path move the ATM_DATABASE file to the location
+
+step3:
+
+>create new google account
+>after creating go to security search the option LESS SECURE APP ACCESS and turn on the option
+
+after on the option open ATM_PROJECT.py file go to line 689 write your newly created account name and password there also line 697 write your account name don't make
+changes in the code
+
+do the same thing in line 882,890
+
