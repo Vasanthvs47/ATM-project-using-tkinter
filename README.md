@@ -1,2 +1,2 @@
 # ATM-project-using-tkinter
-creating atm software using tkinter
+creating simple atm using tkinter
